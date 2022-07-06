@@ -4,10 +4,14 @@
 .text-title {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.6em;
+    font-weight: bold;
 }
 
 .text-p {
     font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 1.2em;
 }
 
 .text-li {
@@ -17,6 +21,12 @@
     color: black;
     
 }
+
+.text-footer {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1em;
+        font-weight: bold;
+    }
 
 .text-li:hover {
     font-size: 1.5em;
